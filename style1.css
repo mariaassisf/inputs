@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+input{
+color:palevioletred;
+}
+button{
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    transition: all 0.5s;
+      
+}
+button:hover{
+    transform: scale(1.2);
+    background-color: blueviolet;
+    color: pink;
+}
